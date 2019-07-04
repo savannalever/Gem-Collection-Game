@@ -4,10 +4,6 @@ html {
 
 body { 
 	min-height: 100vh;
-    background: url("../images/geobackground.png");
-    background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: scroll;
 }
 
 h3 {
@@ -49,10 +45,6 @@ h1 {
 	font-weight: 600;
 	letter-spacing: 3px;
 }
-
-/*.directions {
-	
-}*/
 
 #winOrLose {
 	color: rgb(71, 71, 71);
